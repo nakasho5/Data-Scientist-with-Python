@@ -11,4 +11,4 @@ As you progress, you’ll work with real-world datasets to learn the statistical
 Start this track, grow your data science skills, and begin your journey to becoming a confident data scientist with Python.
 
 # Certificate
-![]()
+![](https://github.com/nakasho5/Data-Scientist-with-Python/blob/main/Data%20Scientist%20with%20Python%20Certificate.png)
